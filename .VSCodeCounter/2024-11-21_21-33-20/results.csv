@@ -1,0 +1,37 @@
+"filename", "language", "JSON", "JavaScript", "JavaScript JSX", "HTML", "Properties", "CSS", "Markdown", "comment", "blank", "total"
+"c:\AI CHAT\chatgpt-clone\Backend\.env", "Properties", 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\AI CHAT\chatgpt-clone\Backend\index.js", "JavaScript", 0, 91, 0, 0, 0, 0, 0, 5, 48, 144
+"c:\AI CHAT\chatgpt-clone\Backend\models\chat.js", "JavaScript", 0, 31, 0, 0, 0, 0, 0, 0, 4, 35
+"c:\AI CHAT\chatgpt-clone\Backend\models\userChats.js", "JavaScript", 0, 26, 0, 0, 0, 0, 0, 0, 4, 30
+"c:\AI CHAT\chatgpt-clone\Backend\package-lock.json", "JSON", 1777, 0, 0, 0, 0, 0, 0, 0, 1, 1778
+"c:\AI CHAT\chatgpt-clone\Backend\package.json", "JSON", 22, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"c:\AI CHAT\chatgpt-clone\Client\.eslintrc.cjs", "JavaScript", 0, 23, 0, 0, 0, 0, 0, 0, 0, 23
+"c:\AI CHAT\chatgpt-clone\Client\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 2, 0, 1, 3
+"c:\AI CHAT\chatgpt-clone\Client\index.html", "HTML", 0, 0, 0, 13, 0, 0, 0, 0, 1, 14
+"c:\AI CHAT\chatgpt-clone\Client\package-lock.json", "JSON", 5995, 0, 0, 0, 0, 0, 0, 0, 1, 5996
+"c:\AI CHAT\chatgpt-clone\Client\package.json", "JSON", 33, 0, 0, 0, 0, 0, 0, 0, 1, 34
+"c:\AI CHAT\chatgpt-clone\Client\src\App.jsx", "JavaScript JSX", 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"c:\AI CHAT\chatgpt-clone\Client\src\components\chatList\ChatList.jsx", "JavaScript JSX", 0, 0, 40, 0, 0, 0, 0, 0, 7, 47
+"c:\AI CHAT\chatgpt-clone\Client\src\components\chatList\chatList.css", "CSS", 0, 0, 0, 0, 0, 53, 0, 0, 11, 64
+"c:\AI CHAT\chatgpt-clone\Client\src\components\newPrompt\NewPrompt.jsx", "JavaScript JSX", 0, 0, 79, 0, 0, 0, 0, 0, 15, 94
+"c:\AI CHAT\chatgpt-clone\Client\src\components\newPrompt\newPrompt.css", "CSS", 0, 0, 0, 0, 0, 38, 0, 0, 12, 50
+"c:\AI CHAT\chatgpt-clone\Client\src\components\upload\Upload.jsx", "JavaScript JSX", 0, 0, 69, 0, 0, 0, 0, 0, 17, 86
+"c:\AI CHAT\chatgpt-clone\Client\src\index.css", "CSS", 0, 0, 0, 0, 0, 14, 0, 0, 1, 15
+"c:\AI CHAT\chatgpt-clone\Client\src\layouts\dashboardLayout\dashboardLayout.css", "CSS", 0, 0, 0, 0, 0, 13, 0, 0, 2, 15
+"c:\AI CHAT\chatgpt-clone\Client\src\layouts\dashboardLayout\dashboardLayout.jsx", "JavaScript JSX", 0, 0, 24, 0, 0, 0, 0, 0, 6, 30
+"c:\AI CHAT\chatgpt-clone\Client\src\layouts\rootLayout\RootLayout.jsx", "JavaScript JSX", 0, 0, 34, 0, 0, 0, 0, 0, 7, 41
+"c:\AI CHAT\chatgpt-clone\Client\src\layouts\rootLayout\rootLayout.css", "CSS", 0, 0, 0, 0, 0, 25, 0, 0, 2, 27
+"c:\AI CHAT\chatgpt-clone\Client\src\lib\gemini.js", "JavaScript", 0, 14, 0, 0, 0, 0, 0, 0, 6, 20
+"c:\AI CHAT\chatgpt-clone\Client\src\main.jsx", "JavaScript JSX", 0, 0, 49, 0, 0, 0, 0, 0, 6, 55
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\chatPage\ChatPage.jsx", "JavaScript JSX", 0, 0, 48, 0, 0, 0, 0, 0, 12, 60
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\chatPage\chatPage.css", "CSS", 0, 0, 0, 0, 0, 33, 0, 0, 13, 46
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\dashboardPage\DashboardPage.jsx", "JavaScript JSX", 0, 0, 51, 0, 0, 0, 0, 0, 11, 62
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\dashboardPage\dashboardPage.css", "CSS", 0, 0, 0, 0, 0, 93, 0, 0, 13, 106
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\homepage\Homepage.jsx", "JavaScript JSX", 0, 0, 64, 0, 0, 0, 0, 1, 6, 71
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\homepage\homepage.css", "CSS", 0, 0, 0, 0, 0, 164, 0, 0, 28, 192
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\signInPage\signInPage.css", "CSS", 0, 0, 0, 0, 0, 6, 0, 0, 0, 6
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\signInPage\signInPage.jsx", "JavaScript JSX", 0, 0, 10, 0, 0, 0, 0, 0, 0, 10
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\signUpPage\signUpPage.css", "CSS", 0, 0, 0, 0, 0, 6, 0, 0, 0, 6
+"c:\AI CHAT\chatgpt-clone\Client\src\routes\signUpPage\signUpPage.jsx", "JavaScript JSX", 0, 0, 10, 0, 0, 0, 0, 0, 2, 12
+"c:\AI CHAT\chatgpt-clone\Client\vite.config.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 7827, 190, 484, 13, 7, 445, 2, 7, 244, 9219
